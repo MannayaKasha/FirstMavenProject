@@ -6,6 +6,6 @@ public class HelloWorld {
         Generator generator = new Generator();
         System.out.println(generator.sayHello());
 
-        System.out.println("Some new information");
+        System.out.println("some new information");
     }
 }
